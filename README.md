@@ -81,7 +81,9 @@ The figures below show the estimated excess mortality by age group since 2016. E
 
 The analysis suggests that there is little excess mortality *beyond* the [officially reported Covid-19 deaths](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html), which indicates that official figures are relatively accurate and that there are few "hidden" deaths due to Covid-19 (including possibly - due to Covid-19 - non-treated other medical conditions). 
 
-This is in sharp contrast to (preliminary) findings from other European countries, for which considerable excess mortality is reported (["How deadly is COVID-19? A rigorous analysis of excess mortality and age-dependent fatality rates in
+When compared to the overall mean (2570 deaths per day), the *total* number of estimated excess deaths in the considered period (320 per day) translates into a excess mortality of 12.5 percent in Germany.
+
+This is in sharp contrast to (preliminary) findings from other European countries such as Italy, for which considerable excess mortality is reported (["How deadly is COVID-19? A rigorous analysis of excess mortality and age-dependent fatality rates in
 Italy"](https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v3.full.pdf) /  ["Excess mortality during COVID-19 in
 five European countries and a critique of mortality data analysis"](https://www.medrxiv.org/content/10.1101/2020.04.28.20083147v1.full.pdf+html)). 
 
