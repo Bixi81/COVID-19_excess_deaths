@@ -68,7 +68,7 @@ Reported deaths which are [attributed to Covid-19](https://github.com/Bixi81/COV
 
 - In the **age group81+**, the expected value is 237 (excess deaths in the period between 23 March and 19 April 2020, about 74% of excess deaths).
 
-The figures below show the estimated excess mortality by age group since 2016. Excess mortality is particularly pronounced in the age group 80+ compared to the remaining groups.
+The figures below show the estimated excess mortality by age group since 2016. Excess mortality is particularly pronounced in the age group 81+ compared to the remaining groups.
 
 ![age0-60](excess_deaths_0_60.jpg)
 
