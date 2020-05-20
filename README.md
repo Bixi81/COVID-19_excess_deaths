@@ -60,13 +60,10 @@ Reported deaths which are [attributed to Covid-19](https://github.com/Bixi81/COV
 
 The figures below show the estimated excess mortality by age group since 2016. Excess mortality is particularly pronounced in the age group 80+ compared to the remaining groups.
 
-**Age group 0-60**
 ![age0-60](excess_deaths_0_60.jpg)
 
-**Age group 61-80**
 ![age60-80](excess_deaths_61_80.jpg)
 
-**Age group 81+**
 ![age80+](excess_deaths_81plus.jpg)
 
 
