@@ -295,4 +295,16 @@ ndeaths
 # Summarise excess death per day results from GAM
 nexcess_gam 
 
+# Plot reported deaths (Germany, RKI data)
+tt=t[(t$date>="2020-03-23" & tt$date<="2020-04-19"),]
+# Plot Covid deaths
+ggplot(tt, aes(x = date, y = covid_deaths)) + 
+  geom_point(color="lightsteelblue") +
+  geom_smooth(se = T, color = "gray35", fill = "gray40") +
+  xlab("") + ylab("Deaths") +
+  ggtitle("Reported deaths due to Covid-19 (Germany)") +
+  scale_colour_brewer(palette = "Blues") 
+
+ggsave(filename=paste0(mypath, "out/death_reported.jpg"), plot=last_plot(), width = 8, height = 4.94, dpi = 300, units = "in", device='png')
+
 ### END
