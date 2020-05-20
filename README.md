@@ -64,7 +64,7 @@ Between 23 March and 19 April, a total of 6360 deaths due to Covid-19 (an averag
 
 Reported deaths which are [attributed to Covid-19](https://github.com/Bixi81/COVID-19) occur mostly in the age group 80+ years (64%) and 60-79 (32%), according to RKI data. The mortality data provided by Destatis is in line with these figures as the results of [OLS regressions by age group (Columns 2-4)](https://github.com/Bixi81/Covid-19_excess_deaths/blob/master/regression_results.txt) suggest.
 
-However, data by Destatis suggest that the true Covid-19 mortality in the age group 80+ is somewhat higher (74%, see below) than refrected in official figures (64%).
+However, data by Destatis suggest that the true Covid-19 mortality in the age group 80+ is somewhat higher (74%, see below) than reflected in official figures (64%).
 
 *Note that the data from Destatis allows no accurate identification of age groups since age group labels overlap (e.g. 75-80 and 80-85). It is assumed that each age group includes the highes number of years (and excludes the lowest).*
 
