@@ -74,9 +74,10 @@ The figures below show the estimated excess mortality by age group since 2016. E
 ![age80+](excess_deaths_81plus.jpg)
 
 
-
-
-
-
-
 **4. Conclusion**
+
+suggest that there is little or no excess mortality *beyond* the [officially reported Covid-19 deaths](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html), which indicates that official figures are relatively accurate and that there are few or no "hidden" deaths due to Covid-19 (including possibly - due to Covid-19 - non-treated other medical conditions). 
+
+This is in sharp contrast to findings from countries like Italy or Spain, for which considerable excess mortality is reported (["How deadly is COVID-19? A rigorous analysis of excess mortality and age-dependent fatality rates in
+Italy"](https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v3.full.pdf) /  ["Excess mortality during COVID-19 in
+five European countries and a critique of mortality data analysis"](https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v3.full.pdf)). 
