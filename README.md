@@ -43,7 +43,8 @@ The [OLS regression results](https://github.com/Bixi81/Covid-19_excess_deaths/bl
 
 Between 23 March and 19 April, a total of 6360 deaths due to Covid-19 (an average of 227 per day) have been reported in Germany according to RKI data. The daily average of reported deaths due to Covid-19 is slightly below the estimated excess mortality based on the OLS model and slightly above the estimated excess mortality as predicted by the GAM model. 
 
-Based on the OLS model, the excess mortality *beyond* the officially reported Covid-19 deaths ranges between 16 and 170 deaths, with an expected value 93 deaths. Based on the GAM, the excess mortality *beyond* the officially reported Covid-19 deaths ranges between 0 and 70 deaths, with an expected value of 0. 
+- Based on the **OLS model**, the excess mortality *beyond* the officially reported Covid-19 deaths ranges between 16 and 170 deaths, with an expected value 93 deaths. 
+- Based on the **GAM model**, the excess mortality *beyond* the officially reported Covid-19 deaths ranges between 0 and 70 deaths, with an expected value of 0. 
 
 
 
