@@ -8,7 +8,7 @@ This article investigates excess mortality in Germany (Übersterblichkeit) from 
 
 The results suggest that there is little to no excess mortality *beyond* the [officially reported Covid-19 deaths](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html), which indicates that official figures are relatively accurate and that there are few or no "hidden" deaths due to Covid-19. 
 
-- The estimated number of excess deaths in the considered period ranges between 0 and 170 deaths, with an expected values of 93 (OLS model). 
+- The estimated number of excess deaths *beyond* the official number of reported Covid-19 deaths, is in a range between 0 and 170 deaths per day, with an expected values of 93 deaths per day (OLS model). 
 - 74% of excess deaths are attributable to the age group 81+ years. 
 - 23% of excess deaths are attributable to the age group of 61-80 years. 
 - There is no evidence for excess mortality in the age group 0-60 years.
