@@ -12,7 +12,7 @@ The results suggest that there is little excess mortality *beyond* the [official
 - 74% of overall excess deaths are attributable to the age group 81+ years. 
 - 23% of overall excess deaths are attributable to the age group of 61-80 years. 
 - There is no statistical evidence for excess mortality in the age group 0-60 years.
-- When compared against the overall mean (2570 deaths per day), the excess number of 320 deaths per day translates into a excess mortality of 12.5 percent.
+- When compared against the overall mean (2570 deaths per day), the *total* number of excess deaths in the considered period (320 per day) translates into a excess mortality of 12.5 percent.
 
 **1. Introduction**
 
