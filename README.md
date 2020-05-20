@@ -39,7 +39,7 @@ The figure below shows the (smoothed) numer of actual deaths since 2016 as well 
 
 ![ndeaths](deaths_per_day.jpg)
 
-The number of actual deaths between 23 March and 19 April is plotted for each year in the figure below. The figure indicates that the number of deaths has been relatively high in 2020 - in particular in early April - compared to 2016, 2017, and 2019 but the number of deaths is not statistically different when compared to 2018. The flu season 2017/2018 has been the most severe in 30 years and had led to an [estimated 25000 excess deaths](https://www.aerzteblatt.de/nachrichten/106375/Grippewelle-war-toedlichste-in-30-Jahren).
+The number of actual deaths between 23 March and 19 April is plotted for each year in the figure below. The figure indicates that the number of deaths has been relatively high in 2020 - in particular in early April - compared to 2016, 2017, and 2019 but the number of deaths is not statistically different when compared to 2018. The flu season 2017/2018 has been the most severe in 30 years and has led to an [estimated 25000 excess deaths](https://www.aerzteblatt.de/nachrichten/106375/Grippewelle-war-toedlichste-in-30-Jahren).
 
 ![ndeaths2](death_per_day2.jpg)
 
