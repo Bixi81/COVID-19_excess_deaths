@@ -1,10 +1,15 @@
- # COVID-19: Excess mortality in Germany
+ # COVID-19: Excess Mortality in Germany
 
 *Last update: 20 May 2020*
 
 **Abstract:**
 
-This article investigates excess mortality in Germany (Übersterblichkeit) from 2016 to April 2020 and in particular possible excess mortality during the Covid-19 outbreak. 
+This article investigates excess mortality in Germany (Übersterblichkeit) from 2016 to April 2020 and in particular possible excess mortality during the Covid-19 outbreak (23 March 2020 to 19 April 2020 considered). The results suggest that there is little to no excess mortality beyond the [officially reported Covid-19 deaths](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html). 
+
+- The estimated number of excess deaths in the considered period ranges between 0 and 170 deaths, with an expected values of 93 (OLS model). 
+- 74% of excess deaths are attributable to the age group 81+ years. 
+- 23% of excess deaths are attributable to the age group of 61-80 years. 
+- There is no evidence for excess mortality in the age group 0-60 years.
 
 **1. Introduction**
 
