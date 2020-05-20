@@ -87,6 +87,6 @@ This is in sharp contrast to (preliminary) findings from other European countrie
 Italy"](https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v3.full.pdf) /  ["Excess mortality during COVID-19 in
 five European countries and a critique of mortality data analysis"](https://www.medrxiv.org/content/10.1101/2020.04.28.20083147v1.full.pdf+html)). 
 
-The analysis also supports the presumption that the lethality of Covid-19 is highly contingent on age, as 74% of overall excess deaths are attributable to the age group 81+ years and 23% to the age group of 61-80 years. This is in line with [reported Covid-19 deaths by age as published by RKI](https://github.com/Bixi81/COVID-19), which exhibit similar patterns.
+The analysis supports the presumption that the lethality of Covid-19 is highly contingent on age, as 74% of overall excess deaths are attributable to the age group 81+ years and 23% to the age group of 61-80 years. This is in line with [reported Covid-19 deaths by age as published by RKI](https://github.com/Bixi81/COVID-19), which exhibit similar patterns.
 
-Overall it appears - especially in the light of findings from other European countries - that quick and decisive response to Covid-19 in Germany has contributed to a low excess mortality during the pandemic as of April 2020.
+Overall it appears - especially in the light of findings from other European countries - that quick and decisive response to Covid-19 in Germany has contributed to a relatively low excess mortality during the pandemic as of April 2020.
