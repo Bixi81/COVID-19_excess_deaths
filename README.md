@@ -43,6 +43,10 @@ The number of actual deaths between 23 March and 19 April is plotted for each ye
 
 ![ndeaths2](death_per_day2.jpg)
 
+The inverted u-shaped pattern in the excess deaths in 2020 matches the pattern of reported Covid-19 deaths in Germany (RKI data), which also shows an inverted u-shape in the same period of time. 
+
+![reported_deaths](death_reported.jpg)
+
 **3. Results**
 
 **3.1 Overall Results**
