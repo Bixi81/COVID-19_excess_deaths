@@ -17,7 +17,7 @@ The results suggest that there is little or no excess mortality *beyond* the [of
 
 Excess mortality is a temporary increase of mortality (the number of deaths) compared to a (seasonal) baseline. There is evidence, that Covid-19 has led to a significant increase in the number of deaths in countries such as Portugal, England and Wales, France, the Netherlands, and Italy  (["How deadly is COVID-19? A rigorous analysis of excess mortality and age-dependent fatality rates in
 Italy"](https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v3.full.pdf) /  ["Excess mortality during COVID-19 in
-five European countries and a critique of mortality data analysis"](https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v3.full.pdf)).
+five European countries and a critique of mortality data analysis"](https://www.medrxiv.org/content/10.1101/2020.04.28.20083147v1.full.pdf+html)).
 
 The German Robert-Koch-Institut (RKI) has reported correlation of some excess mortality in Germany with Covid-19 (["Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 24.04.2020"](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-04-24-de.pdf?__blob=publicationFile)). However, there seems to be no rigorous assessment so far. 
 
@@ -80,4 +80,4 @@ suggest that there is little or no excess mortality *beyond* the [officially rep
 
 This is in sharp contrast to findings from countries like Italy or Spain, for which considerable excess mortality is reported (["How deadly is COVID-19? A rigorous analysis of excess mortality and age-dependent fatality rates in
 Italy"](https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v3.full.pdf) /  ["Excess mortality during COVID-19 in
-five European countries and a critique of mortality data analysis"](https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v3.full.pdf)). 
+five European countries and a critique of mortality data analysis"](https://www.medrxiv.org/content/10.1101/2020.04.28.20083147v1.full.pdf+html)). 
