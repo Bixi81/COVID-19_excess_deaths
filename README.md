@@ -12,7 +12,7 @@ The results suggest that there is little excess mortality *beyond* the [official
 - 74% of overall excess deaths are attributable to the age group 81+ years. 
 - 23% of overall excess deaths are attributable to the age group of 61-80 years. 
 - There is no statistical evidence for excess mortality in the age group 0-60 years.
-- When compared against the overall mean (2570 deaths per day), the *total* number of excess deaths in the considered period (320 per day) translates into a excess mortality of 12.5 percent.
+- When compared to the overall mean (2570 deaths per day), the *total* number of estimated excess deaths in the considered period (320 per day) translates into a excess mortality of 12.5 percent.
 
 **1. Introduction**
 
@@ -49,7 +49,7 @@ The number of actual deaths between 23 March and 19 April is plotted for each ye
 
 The [OLS regression results](https://github.com/Bixi81/Covid-19_excess_deaths/blob/master/regression_results.txt) indicate that - over all age groups - the daily excess mortality in Germany between 23 March 2020 and 19 April 2020 was about 320 deaths per day with a 95% confidence interval of 243 to 397. The point estimate from the more flexible GAM model is 182 excess deaths per day (with a mean absolute error of 115) in the respective period. The GAM is especially tuned to account for max. temperatures in order to capture the effects of high mortality in times of unusually high temperatures, i.e. in summer 2018 and 2019. The relatively low point estimate from the GAM model likely is a result of temperatures above the seasonal average in March and April 2020 and may provide a lower bound estimate.
 
-When compared against the overall mean (2570 deaths per day), the excess number of 320 deaths per day translates into a excess mortality of 12.5 percent.
+When compared to the overall mean (2570 deaths per day), the number of 320 excess deaths per day translates into a excess mortality of 12.5 percent.
 
 Between 23 March and 19 April, a total of 6360 deaths due to Covid-19 (an average of 227 per day) have been reported in Germany according to RKI data. The daily average of reported deaths due to Covid-19 is slightly below the estimated excess mortality based on the OLS model and slightly above the estimated excess mortality as predicted by the GAM model. 
 
