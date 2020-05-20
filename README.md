@@ -46,7 +46,7 @@ Between 23 March and 19 April, a total of 6360 deaths due to Covid-19 (an averag
 - Based on the **OLS model**, the excess mortality *beyond* the officially reported Covid-19 deaths ranges between 16 and 170 deaths, with an expected value 93 deaths. 
 - Based on the **GAM model**, the excess mortality *beyond* the officially reported Covid-19 deaths ranges between 0 and 70 deaths, with an expected value of 0. 
 
-**3.1 Results by Age Groups**
+**3.2 Results by Age Groups**
 
 Reported deaths which are [attributed to Covid-19](https://github.com/Bixi81/COVID-19) occur mostly in the age group 80+ years (64%) and 60-79 (32%), according to RKI data. The mortality data provided by Destatis is in line with these figures as the results of [OLS regressions by age group (Columns 2-4)](https://github.com/Bixi81/Covid-19_excess_deaths/blob/master/regression_results.txt) suggest. 
 
