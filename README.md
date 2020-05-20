@@ -64,7 +64,7 @@ The figures below show the estimated excess mortality by age group since 2016. E
 ![age0-60](excess_deaths_0_60.jpg)
 
 **Age group 61-80**
-
+![age60-80](excess_deaths_61_80.jpg)
 
 **Age group 81+**
 ![age80+](excess_deaths_81plus.jpg)
