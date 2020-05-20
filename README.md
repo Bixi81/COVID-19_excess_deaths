@@ -25,15 +25,16 @@ Data on the number of deaths in Germany are usually published with some delay by
 
 I use a generalised additive model (GAM) with splines to estimate the a mortality baseline contingent on the year (reference: 2016), the week of the year (reference: week 25), and the max. temperature in Frankfurt am Main as a proxy for overall weather conditions in Germany. Daily data is used to estimate the mortality baseline. The actual number of deaths per day is contrasted to the mortality baseline - as predicted by the GAM model - in order to plot excess mortality. In the model, there is no differentiation of the pre and post Covid-19 period in order to contrast actual mortality figures against a "no Covid-19" baseline.
 
-In a second step, a simple OLS model is used to get an estimate of excess deaths during Covid-19 by adding an indicator for the resprctive period. Otherwise the same explanatory variables are used as in the GAM, described above. See the [R script](https://github.com/Bixi81/COVID-19_excess_deaths/blob/master/covid19_excess_mortality.R) for details.
+In a second step, a simple OLS model is used to get an estimate of excess deaths during Covid-19 (defined 23 March 2020 until 19 April 2020; data is available until 19 April only) by adding an indicator for the resprctive period. Otherwise the same explanatory variables are used as in the GAM, described above. See the [R script](https://github.com/Bixi81/COVID-19_excess_deaths/blob/master/covid19_excess_mortality.R) for details.
 
-
-
+The figure below shows the (smoothed) numer of actual deaths since 2016 as well as the predicted numer of deaths (GAM model). There clearly is seasonality of mortality, which tends to be higher during the winter month and during very hot periods in the summer 2018/2019.
 
 ![ndeaths](deaths_per_day.jpg)
 
-
+The number of actual deaths between 23 March and 19 April is plotted for each year in the figure below. The figure indicates that the number of deaths is relatively high compared to 2016, 2017, and 2019 but not statistically different to the figures of 2018. The flu season 2017/2018 has been the most severe in 30 years and had led to an [estimated 25000 excess deaths](https://www.aerzteblatt.de/nachrichten/106375/Grippewelle-war-toedlichste-in-30-Jahren).
 
 **3. Results**
+
+
 
 **4. Conclusion**
