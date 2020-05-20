@@ -23,7 +23,10 @@ Data on the number of deaths in Germany are usually published with some delay by
 - Find the data [here](https://github.com/Bixi81/COVID-19_excess_deaths/blob/master/deaths_germany.csv).
 - Find the model (R script) [here](https://github.com/Bixi81/COVID-19_excess_deaths/blob/master/covid19_excess_mortality.R).
 
-I use a generalised additive model (GAM) with splines to estimate the a mortality baseline contingent on the year (reference: 2016), the week of the year (reference: week 25), and the max. temperature in Frankfurt am Main as a proxy for overall weather conditions in Germany. Daily data is used to estimate the mortality baseline. The actual number of deaths per day is contrasted to the mortality baseline, predicted by the GAM model in order to plot excess mortality.
+I use a generalised additive model (GAM) with splines to estimate the a mortality baseline contingent on the year (reference: 2016), the week of the year (reference: week 25), and the max. temperature in Frankfurt am Main as a proxy for overall weather conditions in Germany. Daily data is used to estimate the mortality baseline. The actual number of deaths per day is contrasted to the mortality baseline - as predicted by the GAM model - in order to plot excess mortality. In the model, there is no differentiation of the pre and post Covid-19 period in order to contrast actual mortality figures against a "no Covid-19" baseline.
+
+In a second step, a simple OLS model is used to get an estimate of excess deaths during Covid-19 by adding an indicator for the resprctive period. Otherwise the same explanatory variables are used as in the GAM, described above. See the [R script](https://github.com/Bixi81/COVID-19_excess_deaths/blob/master/covid19_excess_mortality.R) for details.
+
 
 
 
